@@ -7,7 +7,7 @@ Frontend Developer
 
 I've been learning to code for 3 month, after switching careers. My basic profession is Hardware Developer.
 
-* ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com)
+* ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_traut
 * 🧠  I'm learning JS and React
 
 ### Skills
