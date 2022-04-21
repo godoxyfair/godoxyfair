@@ -7,7 +7,6 @@ Frontend Developer
 
 I've been learning to code for 3 month, after switching careers. My basic profession is Hardware Developer.
 
-* 🌍  I'm based in Moscow
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com)
 * 🧠  I'm learning JS and React
 
