@@ -5,10 +5,10 @@ Hi 👋 My name is Marta
 Frontend Developer
 ------------------
 
-I've been learning to code for 6 month, after switching careers. My basic profession is Hardware Developer.
+I've been learning to code for 6 month, after switching careers. I Have an electric robototechnical and circuit engineer degree. 
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_traut
-* 🧠  I'm learning JS and React
+* 🧠  I'm learning JS, Vue and React
 
 ### Skills
 
