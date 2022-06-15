@@ -6,7 +6,7 @@ Frontend Developer
 ------------------
 
 I've been learning to code for 6 month, after switching careers. I Have an electric robototechnical and circuit engineer degree.
-My business card :) https://godoxyfair.github.io/portfolio-card/ <a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a>
+<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_traut
 * 🧠  I'm learning JS, Vue and React
