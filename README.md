@@ -5,7 +5,8 @@ Hi 👋 My name is Marta
 Frontend Developer
 ------------------
 
-I've been learning to code for 6 month, after switching careers. I Have an electric robototechnical and circuit engineer degree. 
+I've been learning to code for 6 month, after switching careers. I Have an electric robototechnical and circuit engineer degree.
+My business card :) 
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_traut
 * 🧠  I'm learning JS, Vue and React
