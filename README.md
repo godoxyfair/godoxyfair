@@ -10,6 +10,7 @@ I've been learning to code for 6 month, after switching careers. I Have an elect
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_traut
 * 🧠  I'm learning JS, Vue and React
+* 🧠  <a href="https://www.codewars.com/users/godoxyfair" target="_blank" rel="noreferrer">Codewars</a>
 
 ### Skills
 
