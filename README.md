@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 👋 My name is Marta
+Hi My name is Marta
 ======================
 
 Frontend Developer
