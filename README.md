@@ -4,11 +4,11 @@ Hi My name is Marta
 Frontend Developer
 ------------------
 
-I've been learning to code for 6 month, after switching careers. I Have an electric robototechnical and circuit engineer degree.
-<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)
+I am Junior Frontend Developer. I Have an electric robototechnical and circuit engineer degree.
+<!--<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)-->
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_igumen
-* 🧠  I'm learning JS, Vue and React
+* 🧠  I know JS, React, Angular
 * 🧠  <a href="https://www.codewars.com/users/godoxyfair" target="_blank" rel="noreferrer">Codewars</a>
 
 ### Skills
