@@ -7,9 +7,8 @@ Frontend Developer
 I am Frontend Developer. I Have an electric robototechnical and circuit engineer degree.
 <!--<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)-->
 
-* ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com) and Telegram @martin_igumen
-* 🧠  I know JS, React, Angular
-* 🧠  <a href="https://www.codewars.com/users/godoxyfair" target="_blank" rel="noreferrer">Codewars</a>
+* ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com)
+* 🧠  I profficient in JS, React, TS, Redux, UI Library, RTK.
 
 ### Skills
 
