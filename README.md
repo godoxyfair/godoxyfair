@@ -4,7 +4,7 @@ Hi My name is Marta
 Frontend Developer
 ------------------
 
-I am Frontend Developer with 3 years of experience.
+I am Frontend Developer with 4 years of experience.
 <!--<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)-->
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com)
