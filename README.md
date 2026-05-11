@@ -4,11 +4,13 @@ Hi My name is Marta
 Frontend Developer
 ------------------
 
-I am Frontend Developer with 4 years of experience.
+I am Frontend Developer with 5 years of experience.
 <!--<a href="https://godoxyfair.github.io/portfolio-card/" target="_blank" rel="noreferrer">My business card</a> :)-->
 
 * ✉️  You can contact me at [maigumenova@gmail.com](mailto:maigumenova@gmail.com)
-* 🧠  I profficient in TS, JS, React, Redux, UI Library, RTK, Node JS...
+* 🧠  I profficient in TS, JS, React, Redux, UI Library, RTK, Node JS, Claude
+* I worked in a fintech neobank 
+* I am passionate about new technology.
 
 ### Skills
 
